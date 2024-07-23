@@ -1,0 +1,21 @@
+.Navigation {
+    border-bottom: 1px solid;
+    display: flex;
+    justify-content: space-between;
+    padding: 10px;
+    align-items: center;
+    margin-bottom: 50px;
+}
+
+.Navigation img {
+    width: 50px;
+}
+
+.Navigation ul {
+    display: flex;
+    list-style: none;
+}
+
+.Navigation ul li {
+    margin-left: 10px;
+}
